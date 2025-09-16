@@ -12,3 +12,16 @@ A simple demo using **YOLOv5** and a webcam to detect and label objects in real 
 # Run the script
 ```bash
 python object_detection_webcam.py
+```
+
+Press q to quit.
+
+## Dependencies
+- Python 3.8+
+- PyTorch
+- OpenCV
+
+## Next Steps
+ - Add face detection as a second project.
+ - Explore object tracking for moving targets.
+ - Integrate with robot/drone navigation systems.
