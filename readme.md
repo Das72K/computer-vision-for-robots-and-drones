@@ -12,5 +12,6 @@ A simple demo using **YOLOv5** and a webcam to detect and label objects in real 
 # Run the script
 ```bash
 python object_detection_webcam.py
+```
 
 Press q to quit
